@@ -23,7 +23,12 @@ Les données utilisées proviennent du **DAIGT Proper Train Dataset**, un jeu de
 
 4. **Visualisation des Résultats :**
    La réduction de dimensionnalité a été utilisée pour visualiser les différences entre les textes à l'aide de PCA et de t-SNE. Ces visualisations ont montré que les textes IA ont tendance à être plus concentrés, tandis que les textes humains sont plus dispersés. Ce phénomène pourrait être lié à l'approche plus homogène adoptée par l'IA dans la génération de texte.
-
+   
+## Outils :
+- Python (pandas, numpy, scikit-learn)
+- TF-IDF
+- Jupyter Notebook
+  
 ## Résultats
 1. **Lisibilité :**
    - Les textes IA sont moins lisibles, avec des scores de lisibilité plus faibles.
