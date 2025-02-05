@@ -2,7 +2,8 @@
 
 ## Description
 
-Ce projet utilise l'algorithme TF-IDF pour analyser la différence entre les textes écrits par des humains et ceux générés par l'IA. L'objectif est de créer un modèle capable de distinguer ces deux types de texte en fonction de leurs caractéristiques linguistiques.
+Ce projet utilise l'algorithme TF-IDF pour analyser la différence entre les textes écrits par des humains et ceux générés par l'IA. L'objectif est d'identifier et de comparer les caractéristiques linguistiques de ces deux types de texte.
+
 
 ## Données
 
